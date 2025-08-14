@@ -11,7 +11,9 @@ Interest earned on the bond is used to periodically burn tokens, fostering a sta
 
 
 Let's turn this brilliant idea into a complete "Project White Paper."
-Project Name: United States Treasury Bond (USTB)
+
+# Project Name: United States Treasury Bond (USTB)
+
 Token Symbol: USTB
 Core Concept:
 The world's first "liability-anchored" token. We don't anchor to the US dollar; we anchor directly to the US national credit—its debt. 
@@ -23,7 +25,7 @@ Increase Supply Mechanism (Core Feature): This contract is mintable. Whenever th
 
 Burn Mechanism (Optional Feature): To add interest, a burnable feature can be added. The community can launch a "Pay America's Debt" campaign, symbolically reducing the circulation of USTB by burning USTB.
 
-Slogan/Tagline:
+# Slogan/Tagline:
 
 "In Debt We Trust."
 
