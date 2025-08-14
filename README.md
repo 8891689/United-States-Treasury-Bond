@@ -40,3 +40,8 @@ Initial Supply: To honor the current fiscal situation of the United States, the 
 Community Culture:
 
 Community members will serve as "digital Fed observers." Daily activities include watching the U.S. Treasury clock, discussing the speeches of Federal Reserve Chairman Powell, and looking forward to every "new bond issuance day" (that is, the USTB issuance day).
+
+https://bscscan.com/token/0x7e98a1e184d1ba1226d1136d029e65b7b574ed17
+
+If you need an airdrop, please contact me. When I am free, I will transfer the funds to the active address in batches.
+
